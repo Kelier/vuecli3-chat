@@ -1,6 +1,8 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat/issues)
 
+[![GitHub license](https://img.shields.io/github/license/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat)
+
 
 ---
 permalink: 1534390989
@@ -15,7 +17,7 @@ date: 2018-08-16 11:43:09
 
 效果如下：
 
-![](https://1996.one/images/20180816/vue-cli-chat.gif)
+![](vue-cli-chat.gif)
 
 可以看出打包文件也不大
 
