@@ -1,3 +1,7 @@
+
+[![GitHub issues](https://img.shields.io/github/issues/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat/issues)
+
+
 ---
 permalink: 1534390989
 title: 基于vue-cli（3.0）的交互式聊天实现
