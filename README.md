@@ -1,11 +1,11 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat/issues)
 
-[![GitHub license](https://img.shields.io/github/license/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat)
+[![GitHub license](https://img.shields.io/badge/<chat>-<1.0.0>-<yellow>.svg)](https://github.com/Kelier/vuecli3-chat)
 
 
 
-> title: 基于vue-cli（3.0）的交互式聊天实现
+> 基于vue-cli（3.0）的交互式聊天实现
 
 交互式聊天是一种近年来很火的设计观念，以一种问答的形式来渐进展开页面的未知元素，
 其应用场景也很广，本来我是想去做聊天机器人的，但做完界面变得有点迷茫。
