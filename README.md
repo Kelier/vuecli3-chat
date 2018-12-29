@@ -1,7 +1,7 @@
 
 [![GitHub issues](https://img.shields.io/github/issues/Kelier/vuecli3-chat.svg?style=popout-square)](https://github.com/Kelier/vuecli3-chat/issues)
 
-[![GitHub license](https://img.shields.io/badge/chat-1.0.0-yellow.svg)](https://github.com/Kelier/vuecli3-chat)
+[![GitHub license](https://img.shields.io/badge/chat-1.0.0-yellow.svg)](https://github.com/Kelier/vuecli3-chat) [![Greenkeeper badge](https://badges.greenkeeper.io/Kelier/vuecli3-chat.svg)](https://greenkeeper.io/)
 
 
 
